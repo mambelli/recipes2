@@ -4,4 +4,7 @@
 * lemon
 * salt
 ## Instructions
-Cut the avocado and scoop with a spoon
+find an avacado
+clean them
+First smash the avocado
+
